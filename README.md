@@ -1,6 +1,6 @@
 # Joana
 
-Welcome. My name is Joana, I'm a software engineer, currently working at Talkdesk.
+Welcome. My name is Joana, I'm a software engineer, passionate about frontend and user experience. I am currently working at Codacy, based in Lisbon.
 
 
 <img align='center'> ![Alt Text](https://37.media.tumblr.com/a3c3717f7f8ae78a6a6b289630f3be63/tumblr_n5bm98ldmj1s307p6o1_500.gif) </img>
