@@ -12,12 +12,12 @@ Welcome to my github home page. My name is Joana, I'm a software engineer, passi
 <br/>
 
 ### ✿ Preferred programing languages ✿ 
-React ∙ Javascript ∙ HTML ∙ CSS ∙ Python ∙ Java · C++ ∙ Ruby ∙ LaTeX
+React ∙ Javascript ∙ Typescript ∙ HTML ∙ CSS ∙ Python ∙ Java ∙ Ruby ∙ LaTeX
 <br/>
 
 ---
 ### ✿ Preferred tools ✿ 
-VSCode ∙ Git ∙ Blender ∙ GIMP ∙ Android Studio ∙ Notion ∙ Adobe Illustrator
+VSCode ∙ Git ∙ Node ∙ Blender ∙ GIMP ∙ Android Studio ∙ Notion ∙ Adobe Illustrator
 
 ---
 ### ✿ Hobbies ✿ 
