@@ -11,7 +11,7 @@ Welcome to my github home page. My name is Joana, I'm a software engineer, passi
 
 <br/>
 
-### ✿ Preferred programing languages ✿ 
+### ✿ Preferred programing languages / frameworks ✿ 
 React ∙ Javascript ∙ Typescript ∙ HTML ∙ CSS ∙ Python ∙ Java ∙ Ruby ∙ LaTeX
 <br/>
 
